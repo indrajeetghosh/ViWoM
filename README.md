@@ -1,3 +1,3 @@
 # ViWoM
 
-Under review - KDD 2025 D&B track
+Under review - KDD 2026 D&B track
